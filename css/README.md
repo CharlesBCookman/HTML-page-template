@@ -13,7 +13,7 @@
 
 ## Description
 
-_{This template is for practice of html and css syntax reference for classmates and collaborators. This template is also for to practice make, clone, design, or collaborate on a website. This template is a multipurpose practice tool.}_
+_{This template is for practice of html and css syntax reference for classmates and collaborators. This template is also for to practice make, clone, design, or collaborate on a website. This template is a multipurpose practice tool. In order to comply with class instructions please do not copy and paste into files or projects that are to be personal projects. Perferably this should be used for reference and not copying.}_
 
 ## Set up/Installation Requirements
 
