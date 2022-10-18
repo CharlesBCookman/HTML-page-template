@@ -1,29 +1,29 @@
 head {
   text-align: center;
-  background-image: ;
+  background-image: url("./images/not-yet-selected.img");
 }
 
 title {
-  color: ;
-  border: ;
+  color: black;
+  border: 0;
 }
 
 body {
-  
+  filter: blur(10px)
 }
 
 .place-holder1 {
-
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .place-holder2 {
-
+  font-weight: 100;
 }
 
 .place-holder3 {
-
+  margin: 0 0 0 0;
 }
 
 .place-holder4 {
-
+  font-style: normal ;
 }
