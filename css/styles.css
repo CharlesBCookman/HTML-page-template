@@ -1,6 +1,6 @@
 head {
   text-align: center;
-  background-image: url("./images/not-yet-selected.img");
+  background-image: url("./head-background-image.img");
 }
 
 title {
@@ -12,18 +12,18 @@ body {
   filter: blur(10px)
 }
 
-.place-holder1 {
+.div1-class {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.place-holder2 {
+.div2-class {
   font-weight: 100;
 }
 
-.place-holder3 {
+.p1and2-class {
   margin: 0 0 0 0;
 }
 
-.place-holder4 {
+.ul1-class {
   font-style: normal ;
 }

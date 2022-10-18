@@ -9,7 +9,7 @@
 * _html_
 * _css_
 * _git_
-* _github
+* _github_
 
 ## Description
 
